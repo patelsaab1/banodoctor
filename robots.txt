@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /register
+Disallow: /enquiries/
+Disallow: /OwlCarousel/
+Disallow: /Powerful-Customizable-jQuery-Carousel-Slider-OWL-Carousel/
+Disallow: /assets/dist/ckeditor/
+
+Sitemap: https://www.banodoctor.com/sitemap.xml

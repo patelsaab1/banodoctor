@@ -1,0 +1,10 @@
+<div class="mb-3" id="neet-structure">
+         <h3>NEET UG Cut off -2025</h3>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">The NEET (National Eligibility cum Entrance Test) is one of the most prestigious entrance exams in India for medical aspirants. It is conducted every year by the National Testing Agency (NTA) for admission to undergraduate medical courses like MBBS and BDS in various government and private medical colleges across the country.</span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">One of the most important factors that determines a student&#39;s chances of getting admission into a medical college through NEET is the cut off marks. The cut off marks are the minimum qualifying marks that a candidate needs to secure in order to be eligible for further rounds of counselling and seat allotment.</span></span></p>
+
+<div class="table_responsive"><table border="1" cellpadding="0" cellspacing="0" data-sheets-baot="1" data-sheets-root="1" dir="ltr"><tbody><tr><td><div><strong>Category</strong></div></td><td><div><strong>Qualifying percentile</strong></div></td><td><div><strong>Cutoff score</strong></div></td></tr><tr><td><div>UR/EWS</div></td><td><div>50th percentile</div></td><td><div>686 - 144</div></td></tr><tr><td><div>OBC</div></td><td><div>40th percentile</div></td><td><div>143 - 113</div></td></tr><tr><td><div>SC</div></td><td><div>40th percentile</div></td><td><div>143-113</div></td></tr><tr><td><div>ST</div></td><td><div>40th percentile</div></td><td><div>143-113</div></td></tr><tr><td><div>UR/ EWS - PwBD</div></td><td><div>45th percentile</div></td><td><div>143 - 127</div></td></tr><tr><td><div>OBC PwD</div></td><td><div>40th percentile</div></td><td><div>126 - 113</div></td></tr><tr><td><div>SC PwD</div></td><td><div>40th percentile</div></td><td><div>126 - 113</div></td></tr><tr><td><div>ST PwD</div></td><td><div>40th percentile</div></td><td><div>126 - 113</div></td></tr></tbody></table></div>
+
+      </div>

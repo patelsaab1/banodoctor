@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3.about-sec-hadding {
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    padding: 30px;
+    color: rgba(0, 113, 188, 1);
+    /* text-shadow: 3px 4px 9px rgba(0, 113, 188, 1); */
+    font-size: 35px;
+    margin: 0px;
+}
+
+p.about-sec-para {
+    font-size: 16px;
+    font-family: IBM Plex Sans, sans-serif;
+    font-weight: 500;
+}
+
+img.about-person-img {
+    width: 250px;
+    height: 210px;
+}
+
+.bg-banner {
+    background-image: url(./about-bg-banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+
+h3.about-misvision-hadding {
+    font-size: 32px;
+    color: rgba(18, 67, 106, 1);
+}
+
+
+
+
+
+.mission-img {
+    background-image: url('./visi-round.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90px;
+    width: 90px;
+    margin-top: 40px;
+}
+
+.vision-img {
+    background-image: url('./visi-round.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90px;
+    width: 90px;
+    margin-top: 40px;
+}
+
+.col-4.mivision-image {
+    text-align: center;
+}
+
+.content-box {
+    margin-top: 100px;
+}
+
+ul {
+
+    list-style: none;
+    justify-content: space-between;
+    padding: 0;
+}
+
+
+.content-box li {
+
+    background-color: white;
+    padding: 30px;
+    margin: 20px;
+}
+
+li.content-container1::before {
+    position: absolute;
+    content: url('./visionimg.png');
+
+    margin-left: -130px;
+
+
+
+
+}
+
+
+li.content-container2::before {
+
+    content: url('./mission-img.png');
+    position: absolute;
+    margin-left: -130px;
+
+
+}
+
+.left-image {
+    text-align: center;
+    margin: auto;
+    background-image: url('./about-bg-maps.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 200px auto;
+
+
+}
+
+
+.content-box {
+
+    position: relative;
+    display: block;
+    width: 100%;
+
+
+
+}

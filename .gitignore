@@ -1,0 +1,52 @@
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/google_auth_config.json
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
+
+# Archives that bloated the first push (~350MB)
+*.zip
+*.rar
+*.7z
+
+# Vendor demos (keep only the owl-carousel runtime files the site uses)
+/public/OwlCarousel/
+/public/Powerful-Customizable-jQuery-Carousel-Slider-OWL-Carousel/*
+!/public/Powerful-Customizable-jQuery-Carousel-Slider-OWL-Carousel/owl-carousel/
+!/public/Powerful-Customizable-jQuery-Carousel-Slider-OWL-Carousel/owl-carousel/**
+
+# CMS uploads / media already on the live server
+/public/page/
+/public/blog/
+/public/notifications/
+/public/widget/
+/public/video/
+/public/pdf-file/
+/public/collegeLogo/
+/public/subcategory/
+/public/review/
+/pdf-uploads/
+
+# Large image dumps and unused CKEditor copies
+/public/assets/images/
+/public/assets/image/
+/public/assets/background/
+/public/assets/slider/
+/public/assets/s/
+/public/assets/vendor/
+/public/assets/dist/ckeditor/

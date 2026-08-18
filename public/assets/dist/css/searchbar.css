@@ -1,0 +1,26 @@
+ #searchbar{
+     
+     padding:15px;
+     border-radius: 10px;
+   }
+
+ 
+ 
+ 
+  #searchbar#list{
+    font-size:  1.5em;
+    margin-left: 90px;
+   }
+ 
+#searchbar.colleges{
+   display: list-item; 
+}  
+   .college-list-all{
+   width:100%;
+   background-color:white;
+   height:500px;
+   overflow:auto;
+   text-transform:uppercase;
+   padding:20px;
+  } 
+  
