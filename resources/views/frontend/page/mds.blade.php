@@ -90,7 +90,7 @@ src="https://www.facebook.com/tr?id=1243767823178527&ev=PageView&noscript=1"
        
 
         <div class=" mb-3 top-header-box" >
-            <i class="fas fa-home"></i> 11, 5, Nath Mandir Rd, in front of Arora Bhawan, South Tukoganj, Indore, Madhya Pradesh 452001
+            <i class="fas fa-home"></i> Office No-223,2nd Floor, 683/3, near Medanta Road, Malviya Nagar, Indore, Madhya Pradesh 452010
         </div>
         
        <div class=" mb-3 top-header-box" >

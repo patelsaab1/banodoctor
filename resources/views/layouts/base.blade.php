@@ -263,15 +263,48 @@ src="https://www.facebook.com/tr?id=797525368594397&ev=PageView&noscript=1"
 {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
+  "name": "Bano Doctor Education Consultancy",
+  "image": "https://www.banodoctor.com/Bano-Doctor-Logo.png",
+  "url": "https://www.banodoctor.com/",
+  "telephone": "+917880109834",
+  "priceRange": "$$",
   "address": {
     "@type": "PostalAddress",
-    "addressLocality": "Indore, Madhya Pradesh, India",
+   "addressLocality": "Indore ",
     "addressRegion": "FL",
-    "streetAddress": "Bano Doctor is at Indore -Office No-223,2nd Floor, 683/3, near Medanta Road, Malviya Nagar, Indore, Madhya Pradesh 452010"
+    "streetAddress": "Office No-223,2nd Floor, 683/3, near Medanta Road, Malviya Nagar, Indore, Madhya Pradesh 452010",
+    "postalCode": "452010",
+    "addressCountry": "IN",
+    "addressRegion": "FL"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 22.749283178247797,
+    "longitude": 75.89731578465661
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "10:00",
+    "closes": "18:00"
   },
   "description": "Bano Doctor is a medical admission consultancy that works in the sector of medical admission. We are dedicated to providing our clients with professional and reliable service for their medical admission needs. We offer comprehensive services for MD MS admission, MBBS admission, BAMS admission, and BDS admission,bnys admission ,bums admission ,bvsc admission ,bhms admission ,dm mch admission ,cps fcps admission ,nursing admission.",
   "name": "BanoDoctor",
-  "telephone": "+917880109834"
+  "telephone": "+917880109834",
+    "sameAs": [
+    "https://www.facebook.com/banodoctorsofficial/",
+    "https://x.com/banodoctors",
+    "https://www.instagram.com/banodoctors/",
+    "https://www.youtube.com/channel/UCyygkB2BZNCx3l3YHaKxMwQ",
+    "https://www.linkedin.com/in/bano-doctor-47639a264/"
+  ]
 }
 </script>
 

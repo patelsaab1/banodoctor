@@ -183,7 +183,7 @@
                                 </div>
 
                                 <div class="info-box">
-                                   11, 5, Nath Mandir Rd, in front of Arora Bhawan, South Tukoganj, Indore, Madhya Pradesh 452001
+                                Office No-223,2nd Floor, 683/3, near Medanta Road, Malviya Nagar, Indore, Madhya Pradesh 452010
                                 </div>
 
                             </div>
